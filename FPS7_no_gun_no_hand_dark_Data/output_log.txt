@@ -6,31 +6,31 @@ Direct3D:
     Vendor:   Intel
     VRAM:     128 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: E:\Unity Gaming workspace\Project1 - Copy (2)\FPS7_no_gun_no_hand_dark_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading E:\Unity Gaming workspace\Project1 - Copy (2)\FPS7_no_gun_no_hand_dark_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: E:\Unity Gaming workspace\Project1 - Copy (2)\FPS7_no_gun_no_hand_dark_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading E:\Unity Gaming workspace\Project1 - Copy (2)\FPS7_no_gun_no_hand_dark_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: E:\Unity Gaming workspace\Project1 - Copy (2)\FPS7_no_gun_no_hand_dark_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading E:\Unity Gaming workspace\Project1 - Copy (2)\FPS7_no_gun_no_hand_dark_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: E:\Unity Gaming workspace\Project1 - Copy (2)\FPS7_no_gun_no_hand_dark_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading E:\Unity Gaming workspace\Project1 - Copy (2)\FPS7_no_gun_no_hand_dark_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-Platform assembly: E:\Unity Gaming workspace\Project1 - Copy (2)\FPS7_no_gun_no_hand_dark_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading E:\Unity Gaming workspace\Project1 - Copy (2)\FPS7_no_gun_no_hand_dark_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: E:\Unity Gaming workspace\Project1 - Copy (2)\FPS7_no_gun_no_hand_dark_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading E:\Unity Gaming workspace\Project1 - Copy (2)\FPS7_no_gun_no_hand_dark_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: E:\Unity Gaming workspace\Project1 - Copy (2)\FPS7_no_gun_no_hand_dark_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading E:\Unity Gaming workspace\Project1 - Copy (2)\FPS7_no_gun_no_hand_dark_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.496 seconds
+Platform assembly: E:\Unity Gaming workspace\Inside-The-Night-Sky\FPS7_no_gun_no_hand_dark_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Unity Gaming workspace\Inside-The-Night-Sky\FPS7_no_gun_no_hand_dark_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Unity Gaming workspace\Inside-The-Night-Sky\FPS7_no_gun_no_hand_dark_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Unity Gaming workspace\Inside-The-Night-Sky\FPS7_no_gun_no_hand_dark_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Unity Gaming workspace\Inside-The-Night-Sky\FPS7_no_gun_no_hand_dark_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Unity Gaming workspace\Inside-The-Night-Sky\FPS7_no_gun_no_hand_dark_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Unity Gaming workspace\Inside-The-Night-Sky\FPS7_no_gun_no_hand_dark_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\Unity Gaming workspace\Inside-The-Night-Sky\FPS7_no_gun_no_hand_dark_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\Unity Gaming workspace\Inside-The-Night-Sky\FPS7_no_gun_no_hand_dark_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Unity Gaming workspace\Inside-The-Night-Sky\FPS7_no_gun_no_hand_dark_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Unity Gaming workspace\Inside-The-Night-Sky\FPS7_no_gun_no_hand_dark_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Unity Gaming workspace\Inside-The-Night-Sky\FPS7_no_gun_no_hand_dark_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Unity Gaming workspace\Inside-The-Night-Sky\FPS7_no_gun_no_hand_dark_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\Unity Gaming workspace\Inside-The-Night-Sky\FPS7_no_gun_no_hand_dark_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.597 seconds
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-Platform assembly: E:\Unity Gaming workspace\Project1 - Copy (2)\FPS7_no_gun_no_hand_dark_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: E:\Unity Gaming workspace\Project1 - Copy (2)\FPS7_no_gun_no_hand_dark_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\Unity Gaming workspace\Inside-The-Night-Sky\FPS7_no_gun_no_hand_dark_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Unity Gaming workspace\Inside-The-Night-Sky\FPS7_no_gun_no_hand_dark_Data\Managed\System.dll (this message is harmless)
 The referenced script on this Behaviour is missing!
  
 (Filename:  Line: 1715)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: a08 -> priority: 1 
+  Thread -> id: 8cc -> priority: 1 

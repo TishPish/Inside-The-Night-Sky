@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{9B128289-2345-E797-34D0-1A711C269D30}</ProjectGuid>
+	<ProjectGuid>{5CA2D14D-0442-8096-8F70-9A48F1154BE6}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -49,6 +49,9 @@
      <Compile Include="Assets\FPS KIT\Scripts\Crosshair_Script.js" />
      <Compile Include="Assets\FPS KIT\Scripts\GunMoveMent.js" />
      <Compile Include="Assets\NewBehaviourScript.js" />
+     <Compile Include="Assets\TishPish\Script\camfollowtarget.js" />
+     <Compile Include="Assets\TishPish\Script\minmap.js" />
+     <Compile Include="Assets\TishPish\Script\visibilityChange.js" />
      <None Include="Assets\TutorialAssets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\TutorialAssets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
      <None Include="Assets\TutorialAssets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />
@@ -135,7 +138,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{BD29329E-09E6-ECE2-ABCF-C5D616BA4897}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{70FFAB81-3524-4598-D4C3-3131A33D9C12}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

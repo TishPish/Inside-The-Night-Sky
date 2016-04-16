@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{27B9269A-66AF-A341-3363-8B3DB9B67C63}</ProjectGuid>
+	<ProjectGuid>{4BB5CD66-74CD-7AA7-6C08-30CD70D4D4A2}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -119,7 +119,7 @@
      <None Include="Assets\TutorialAssets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
      <None Include="Assets\TutorialAssets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendForBloom.shader" />
  <Reference Include="Assembly-UnityScript">
- <HintPath>E:/Unity Gaming workspace/Project1 - Copy (2)/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ <HintPath>E:/Unity Gaming workspace/Inside-The-Night-Sky/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>E:/UNITY 3D/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -175,9 +175,9 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass-vs.csproj">
-      <Project>{BD29329E-09E6-ECE2-ABCF-C5D616BA4897}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
+      <Project>{70FFAB81-3524-4598-D4C3-3131A33D9C12}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp-vs.csproj">
-      <Project>{118374B8-D5F1-19A7-AA34-B9F535286121}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
+      <Project>{F5832993-9DEF-C6B1-BBD6-8FD8C9E257E4}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
