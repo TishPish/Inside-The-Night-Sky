@@ -13,11 +13,12 @@ public class showLayer : MonoBehaviour {
 
 		Vector3 vv = gameObject.transform.position;
 		float dis = vv.x- Camera.main.transform.position.x;
-		Debug.Log(dis);
+		float dis2 = vv.z- Camera.main.transform.position.z;
+//		Debug.Log(dis);
 
-		if (Input.GetKeyDown(KeyCode.A)) 
+		if (Input.GetKeyDown(KeyCode.A)) // not complete :/
 		{
-			if (dis<=50)
+			if ((dis<=50 && dis >= -50) && (dis2<750 && dis2>-750))
 			{
 				Transform[] ts = GetComponentsInChildren<Transform>(true);
 				foreach(Transform t in ts)
